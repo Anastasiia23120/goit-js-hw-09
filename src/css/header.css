@@ -6,8 +6,8 @@
   justify-content: center;
 }
 .nav-logo {
-  display: inline-flex;
   align-items: center;
+  display: inline-flex;
   justify-content: center;
 }
 .nav-list {
